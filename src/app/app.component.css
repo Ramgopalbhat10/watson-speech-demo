@@ -1,0 +1,8 @@
+.voice-text {
+  margin-top: 10px;
+  border: 1px solid grey;
+  height: 52px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
